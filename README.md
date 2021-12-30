@@ -1,2 +1,2 @@
-# movie_api
-free movie finder with favorites created only in html, css and vanilla JS
+# Movie  finder
+##Free movie finder with favorites, created only in html, css and vanilla JS
